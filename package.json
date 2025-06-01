@@ -1,0 +1,12 @@
+{
+  "name": "myflix-json-server",
+  "version": "1.0.0",
+  "description": "JSON Server for MyFlix application",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json --port 3000"
+  },
+  "dependencies": {
+    "json-server": "^1.0.0"  
+  }
+}

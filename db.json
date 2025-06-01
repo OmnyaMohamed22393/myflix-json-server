@@ -1,0 +1,61 @@
+{
+  "users": [
+    {
+      "id": "efc2",
+      "password": "Yahia2178",
+      "username": "Omnya"
+    },
+    {
+      "id": "fb84",
+      "password": "Jehad2178",
+      "username": "Ahmad"
+    },
+    {
+      "id": "715c",
+      "password": "Mohamad110",
+      "username": "Ayaa"
+    },
+    {
+      "id": "2e1a",
+      "password": "Tasneem1234",
+      "username": "Tasneem"
+    }
+  ],
+  "comments": [
+    {
+      "id": "585d",
+      "movieId": "552524",
+      "userId": "Ayaa",
+      "text": "Wow!!!",
+      "timestamp": "6/1/2025, 11:57:09 AM"
+    },
+    {
+      "id": "ad8c",
+      "movieId": "575264",
+      "userId": "Ayaa",
+      "text": ">>>",
+      "timestamp": "6/1/2025, 11:57:49 AM"
+    },
+    {
+      "id": "ced7",
+      "movieId": "552524",
+      "userId": "Tasneem",
+      "text": "......",
+      "timestamp": "6/1/2025, 2:37:19 PM"
+    },
+    {
+      "id": "3b71",
+      "movieId": "1417059",
+      "userId": "Ahmad",
+      "text": "..........",
+      "timestamp": "6/1/2025, 2:44:54 PM"
+    },
+    {
+      "id": "3c67",
+      "movieId": "1417059",
+      "userId": "Omnya",
+      "text": "......",
+      "timestamp": "6/1/2025, 2:47:47 PM"
+    }
+  ]
+}
